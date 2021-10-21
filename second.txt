@@ -1,2 +1,4 @@
 Hi 2
 we can check different commits
+
+diff command
